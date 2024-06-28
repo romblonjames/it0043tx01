@@ -46,17 +46,6 @@ function updateFlexGrow(boxNumber) {
     document.getElementById(`item${boxNumber}`).style.flexGrow = growValue;
 }
 
-}
-
-// function inc(){
-//   counter++;
-//   c.value = counter;
-// }
-
-// function dec(){
-//   counter--;
-//   c.value = counter;
-// }
 
 // function reset(){
 //   counter = 0;
