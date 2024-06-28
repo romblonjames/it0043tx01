@@ -47,7 +47,3 @@ function updateFlexGrow(boxNumber) {
 }
 
 
-// function reset(){
-//   counter = 0;
-//   c.value = counter;
-// }
